@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PCavar
 - 👀 I’m interested in learning Azure/AWS Cloud Computing.
 - 🌱 I’m currently learning/studying by my own where I write functions/scripts and things that are fun in Powershell!
-- 💞️ After the summer I'll be studying Azure/AWS Cloud Management in Campus Mölndal, Gothenburg.
+- 🥳 After the summer I'll be studying Azure/AWS Cloud Management in Campus Mölndal, Gothenburg.
 - 📫 How to reach me: Peter_c96@hotmail.com
