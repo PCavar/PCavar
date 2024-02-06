@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @PCavar
-- 👀 I’m interested in learning Azure/AWS Cloud Computing.
-- 🌱 I’m currently studying at Campus Mölndal Moln & Virtualiseringsspecialist.
+- 👀 Check out my projects, mainly with terraform!
 - 📫 How to reach me: Peter_c96@hotmail.com
